@@ -3,7 +3,7 @@ Repositorio creado para la asignación del capstone de IBM en Data Science
 
 Overview
 
-    Coursera Capstone Project - Contains the Jupyter Notebook for the final project
+    Coursera Capstone Project - Contains the Jupyter Notebook for the final project. The file is called Proyecto_Huesca.ipynb
 
     Final Presentation - Contains the presentation for the final project
 
